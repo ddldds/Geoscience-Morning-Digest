@@ -5,7 +5,7 @@ on:
     - cron: '0 23 * * *' # 北京时间 7:00
   workflow_dispatch:
 
-# 1. 必须添加写入权限，否则无法 push
+# 1. 必须添加写入权限
 permissions:
   contents: write
 
@@ -16,6 +16,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        # ⚠️ 【关键修复】确保 Checkout 时能获取 Token，以支持后续的 Push 操作
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -41,18 +44,22 @@ jobs:
           EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
         run: python scripts/send_email.py
 
-      # 2. 新增步骤：保存 seen.json 的状态回仓库
+      # 2. 【关键修复】新增步骤：保存 seen.json 的状态回仓库
       - name: Commit and Push changes
         run: |
+          # 确保 Git 配置了正确的用户信息
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
           
-          # 检查是否有文件变动
+          # 检查 state/seen.json 文件是否有变动
           if [ -n "$(git status --porcelain state/seen.json)" ]; then
             git add state/seen.json
             git commit -m "Update seen papers list [skip ci]"
-            git push
+            
+            # 🚀 显式使用 GITHUB_TOKEN 进行 Push，这是最可靠的认证方式
+            git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:main
+            
             echo "Successfully pushed updated seen.json"
           else
-            echo "No changes in seen.json"
+            echo "No changes in seen.json to commit."
           fi
