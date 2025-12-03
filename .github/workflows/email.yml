@@ -2,7 +2,7 @@ name: Send Daily Digest Email
 
 on:
   schedule:
-    - cron: "0 14 * * *"  # 北京时间22点发送（14 UTC）
+    - cron: "0 23 * * *"  # 北京时间22点发送（14 UTC）
   workflow_dispatch:
 
 jobs:
@@ -20,16 +20,17 @@ jobs:
         cat output/digest.md >> $GITHUB_ENV
         echo "EOF" >> $GITHUB_ENV
 
-    - name: Send email
-      uses: dawidd6/action-send-mail@v3
-      with:
-        server_address: smtp.gmail.com
-        server_port: 465
-        username: ${{ secrets.EMAIL_USER }}
-        password: ${{ secrets.EMAIL_PASS }}
-        secure: true
-        subject: "今日 AI 论文晨报"
-        to: "1001210725@email.cugb.edu.cn"
-        from: "Daily AI Digest"
-        content_type: text/html
-        body: ${{ env.CONTENT }}
+- name: Send Email
+  uses: dawidd6/action-send-mail@v3
+  with:
+    server_address: www.email.cugb.edu.cn
+    server_port: 465
+    secure: true
+    username: ${{ secrets.EMAIL_USER }}
+    password: ${{ secrets.EMAIL_PASS }}
+    subject: "Daily AI Digest"
+    to: "1001210725@email.cugb.edu.cn"
+    from: ${{ secrets.EMAIL_USER }}
+    body_file: "output/daily.md"
+
+
