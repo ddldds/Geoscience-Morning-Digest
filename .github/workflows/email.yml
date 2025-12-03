@@ -1,13 +1,12 @@
-name: Send Daily AI Paper Digest
+name: Daily Paper Digest
 
 on:
   schedule:
-    # 每天北京时间早上8点运行
-    - cron: '0 0 * * *' # GitHub Actions 使用 UTC，UTC = 北京时间 -8
-  workflow_dispatch: # 允许手动触发
+    - cron: '0 22 * * *'  # 每天凌晨2点执行（UTC时间）
+  workflow_dispatch:
 
 jobs:
-  send_email:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -16,32 +15,17 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.10"
+          python-version: '3.10'
 
       - name: Install dependencies
         run: |
-          pip install feedparser pandas openai markdownify
+          python -m pip install --upgrade pip
+          pip install requests
 
-      - name: Generate Daily Digest
-        run: |
-          python scripts/rss_reader.py
-          python scripts/generate_digest.py
+      - name: Run RSS reader
+        run: python scripts/rss_reader.py
 
-      - name: Set Email Subject with Beijing Time
-        id: subject
-        run: |
-          TODAY=$(date -d '+8 hours' +'%Y-%m-%d')
-          echo "EMAIL_SUBJECT=Daily AI Paper Digest - $TODAY" >> $GITHUB_ENV
-
-      - name: Send Email
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: www.email.cugb.edu.cn
-          server_port: 465
-          secure: true
-          username: ${{ secrets.EMAIL_USER }}
-          password: ${{ secrets.EMAIL_PASS }}
-          subject: ${{ env.EMAIL_SUBJECT }}
-          to: ${{ secrets.EMAIL_USER }}
-          from: ${{ secrets.EMAIL_USER }}
-          body_file: output/daily.md
+      - name: Generate digest
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: python scripts/generate_digest.py
