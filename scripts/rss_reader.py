@@ -20,7 +20,7 @@ RSS_FEEDS = [
     "https://rss.sciencedirect.com/publication/science/00167037"
 ]
 
-SEEN_FILE = "seen/seen.json"
+SEEN_FILE = "state/seen.json"
 OUTPUT_FILE = "output/daily.md"
 
 
