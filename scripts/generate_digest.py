@@ -4,58 +4,55 @@ import json
 import requests
 from datetime import datetime
 
+# 路径设置
 DAILY_MD_PATH = "output/daily.md"
 SEEN_JSON_PATH = "state/seen.json"
 
-# 从 seen.json 读取
+# 从 seen.json 里读取已有记录
 with open(SEEN_JSON_PATH, "r", encoding="utf-8") as f:
     seen = json.load(f)
 
+# 如果 seen.json 是 dict，转成 list 方便统一处理
+if isinstance(seen, dict):
+    seen_list = list(seen.values())
+else:
+    seen_list = seen
+
+# 今天日期
 today = datetime.now().strftime("%Y-%m-%d")
 
-# 收集当天新增论文
+# 收集当天的新论文（如果没有新论文也收集全部，用于生成摘要）
 papers = []
-for item in seen:
-    # 如果 item 是 dict 并有 date
-    if isinstance(item, dict) and item.get("date") == today:
-        papers.append(f"- {item['title']} ({item['source']})")
-    # 如果 item 是 str，则直接加入
-    elif isinstance(item, str):
-        papers.append(f"- {item}")
+for paper in seen_list:
+    title = paper.get("title") if isinstance(paper, dict) else str(paper)
+    source = paper.get("source") if isinstance(paper, dict) else "未知来源"
+    paper_date = paper.get("date") if isinstance(paper, dict) else today
+    papers.append(f"- {title} ({source})")
 
-if not papers:
-    print("No new entries today.")
-    digest = "今日没有新增论文。"
+# 生成摘要
+print(f"Generating digest for {len(papers)} papers...")
+
+# DeepSeek API 配置
+DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")
+if not DEEPSEEK_API_KEY:
+    print("未检测到 DEEPSEEK_API_KEY，摘要将不会生成。")
+    digest = "未设置 DeepSeek API Key，无法生成摘要。"
 else:
-    print(f"Generating digest for {len(papers)} papers...")
-
-    DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")
-    if not DEEPSEEK_API_KEY:
-        raise ValueError("请设置环境变量 DEEPSEEK_API_KEY")
-
-    papers_raw = "\n".join(papers)
-
-    url = "https://api.deepseek.ai/v1/generate"
+    url = "https://api.deepseek.ai/v1/generate"  # 替换为 DeepSeek 官方 endpoint
     payload = {
-        "prompt": f"""
-你是一名地球科学领域的专业科研助手。
-
-下面是今天新增的论文列表，请你完成以下任务：
-
-1）提炼今天新增论文的整体趋势  
-2）用学术语言生成一个“今日论文晨报”，适合科研工作者快速阅读  
-3）按主题自动分类（如构造、地球化学、地球动力学等）  
-4）每篇论文总结一句话核心贡献  
-5）最后附上原始条目列表
-
-今天日期：{today}
-
-以下是新增论文条目：
-
-{papers_raw}
-
-请严格输出 Markdown 格式。
-""",
+        "prompt": (
+            f"你是一名地球科学领域的专业科研助手。\n\n"
+            f"下面是论文列表，请你完成以下任务：\n"
+            "1）提炼论文整体趋势\n"
+            "2）用学术语言生成一个“论文晨报”，适合科研工作者快速阅读\n"
+            "3）按主题自动分类（如构造、地球化学、地球动力学等）\n"
+            "4）每篇论文总结一句话核心贡献\n"
+            "5）最后附上原始条目列表\n\n"
+            f"今天日期：{today}\n\n"
+            "以下是论文条目：\n\n" +
+            "\n".join(papers) +
+            "\n\n请严格输出 Markdown 格式。"
+        ),
         "model": "text-summary"
     }
     headers = {
@@ -77,7 +74,10 @@ if os.path.exists(DAILY_MD_PATH):
 else:
     daily_md = ""
 
-new_content = f"# Daily Paper Digest — {today}\n\n**今日新增论文**：{len(papers)}\n\n**摘要整理**：\n{digest}\n\n---\n\n"
+# 在 markdown 顶部加摘要
+new_content = f"# Daily Paper Digest — {today}\n\n**论文总数**：{len(papers)}\n\n**摘要整理**：\n{digest}\n\n---\n\n"
+
+# 保留原有内容
 new_content += daily_md
 
 with open(DAILY_MD_PATH, "w", encoding="utf-8") as f:
