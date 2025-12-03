@@ -28,27 +28,32 @@ papers_today = [p for p in seen if isinstance(p, dict) and p.get("date") == toda
 
 if not papers_today:
     print("今日没有新增论文。")
-    daily_content = f"Daily Paper Digest — {today}\n\n今日没有新增论文。\n"
+    # 如果没有新增论文，直接设置 daily_content
+    daily_content = [f"Daily Paper Digest — {today}", "\n今日没有新增论文。\n"] 
+    daily_text = "\n".join(daily_content)
 else:
     # -------------------
+    # 【开始 else 块】所有 AI 摘要生成和日报构建都在这里
     DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")
     if not DEEPSEEK_API_KEY:
         raise ValueError("请设置环境变量 DEEPSEEK_API_KEY")
 
     client = OpenAI(api_key=DEEPSEEK_API_KEY, base_url="https://api.deepseek.com")
-if len(papers_today) > 50:
-    print(f"警告：今日新增论文过多 ({len(papers_today)}篇)，为防止 AI 崩溃，仅选取前 30 篇进行摘要。")
-    # 截取前30篇用于生成摘要，但原始列表保留全部
-    papers_for_ai = papers_today[:30] 
-else:
-    papers_for_ai = papers_today
-    
+
+    # 论文数量限制（防止 Context Window 溢出）
+    if len(papers_today) > 50:
+        print(f"警告：今日新增论文过多 ({len(papers_today)}篇)，为防止 AI 崩溃，仅选取前 30 篇进行摘要。")
+        papers_for_ai = papers_today[:30]
+    else:
+        papers_for_ai = papers_today
+        
     # 构建 AI 输入
-papers_brief = "\n".join(
-    f"{p.get('title','未知标题')} ({p.get('source','未知期刊')})"
-    for p in papers_for_ai
-)
-system_prompt = (
+    papers_brief = "\n".join(
+        f"{p.get('title','未知标题')} ({p.get('source','未知期刊')})"
+        for p in papers_for_ai
+    )
+
+    system_prompt = (
         "你是一名地球科学领域科研助手。\n"
         "请根据以下论文列表生成日报。\n"
         "要求：\n"
@@ -59,9 +64,9 @@ system_prompt = (
         "5. 不要包含原始条目列表。"
     )
 
-user_prompt = f"今天日期：{today}\n新增论文列表：\n{papers_brief}"
+    user_prompt = f"今天日期：{today}\n新增论文列表：\n{papers_brief}"
 
-try:
+    try:
         resp = client.chat.completions.create(
             model="deepseek-chat",
             messages=[
@@ -71,34 +76,34 @@ try:
             stream=False
         )
         ai_summary = resp.choices[0].message.content.strip()
-except Exception as e:
+    except Exception as e:
         ai_summary = f"AI 摘要生成失败: {e}"
 
     # -------------------
     # 构建日报文本
-daily_content = []
-daily_content.append(f"Daily Paper Digest — {today}")
-daily_content.append(f"今日新增论文：{len(papers_today)}")
-daily_content.append(f"已累计收录：{len(seen)} 篇")
-daily_content.append("\n---\n")
-daily_content.append("【AI 摘要整理】\n")
-daily_content.append(ai_summary)
-daily_content.append("\n---\n")
-daily_content.append("【附录：原始论文信息】\n")
+    daily_content = []
+    daily_content.append(f"Daily Paper Digest — {today}")
+    daily_content.append(f"今日新增论文：{len(papers_today)}")
+    daily_content.append(f"已累计收录：{len(seen)} 篇")
+    daily_content.append("\n---\n")
+    daily_content.append("【AI 摘要整理】\n")
+    daily_content.append(ai_summary)
+    daily_content.append("\n---\n")
+    daily_content.append("【附录：原始论文信息】\n")
 
-for i, p in enumerate(papers_today, 1):
+    for i, p in enumerate(papers_today, 1):
         authors = p.get("authors", [])
         authors = [a for a in authors if a]  # 去除 None
         authors_str = ", ".join(authors) if authors else "未知"
         daily_content.append(f"{i}. {p.get('title','未知标题')}")
-        daily_content.append(f"   作者：{authors_str}")
-        daily_content.append(f"   期刊/来源：{p.get('source','未知')}")
-        daily_content.append(f"   链接：{p.get('link','')}")
+        daily_content.append(f"   作者：{authors_str}") # 修正缩进，统一使用 4 个空格
+        daily_content.append(f"   期刊/来源：{p.get('source','未知')}") # 修正缩进
+        daily_content.append(f"   链接：{p.get('link','')}") # 修正缩进
         if p.get("summary"):
-            daily_content.append(f"   摘要：{p['summary']}")
+            daily_content.append(f"   摘要：{p['summary']}") # 修正缩进
         daily_content.append("")  # 空行分隔
 
-daily_text = "\n".join(daily_content)
+    daily_text = "\n".join(daily_content) # 最终的日报文本
 
 # -------------------
 # 写入文件
@@ -107,4 +112,3 @@ with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
     f.write(daily_text)
 
 print(f"日报已生成：{OUTPUT_PATH}")
-# -------------------
