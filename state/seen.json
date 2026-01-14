@@ -1,5 +1,491 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-00122-w",
+    "title": "No world-changing discoveries without biodiversity",
+    "link": "https://www.nature.com/articles/d41586-026-00122-w",
+    "authors": [
+      "Kenneth D. Winkel",
+      "Brendan A. Wintle"
+    ],
+    "summary": "Nature, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00122-w\">doi:10.1038/d41586-026-00122-w</a>No world-changing discoveries without biodiversity",
+    "source": "Nature",
+    "date": "2026-01-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00120-y",
+    "title": "Don’t assume that women’s low retraction rates reflect male ‘boldness’",
+    "link": "https://www.nature.com/articles/d41586-026-00120-y",
+    "authors": [
+      "Carrie J. McAdams",
+      "Kristine M. Erlandson",
+      "Sarah N. Cross",
+      "Katharine J. Liang"
+    ],
+    "summary": "Nature, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00120-y\">doi:10.1038/d41586-026-00120-y</a>Don’t assume that women’s low retraction rates reflect male ‘boldness’",
+    "source": "Nature",
+    "date": "2026-01-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00071-4",
+    "title": "Do their ears hang low? The genetics of dogs’ adorable floppy ears",
+    "link": "https://www.nature.com/articles/d41586-026-00071-4",
+    "authors": [
+      "Heidi Ledford"
+    ],
+    "summary": "Nature, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00071-4\">doi:10.1038/d41586-026-00071-4</a>Scientists are just beginning to understand the signals that determine the length of dogs’ ears.",
+    "source": "Nature",
+    "date": "2026-01-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03991-9",
+    "title": "Should the Loch Ness Monster have a scientific name?",
+    "link": "https://www.nature.com/articles/d41586-025-03991-9",
+    "authors": [],
+    "summary": "Nature, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-03991-9\">doi:10.1038/d41586-025-03991-9</a>A debate over a potential newly discovered species, and a tip for buying good sherry in this week’s pick from the Nature archive.",
+    "source": "Nature",
+    "date": "2026-01-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00121-x",
+    "title": "AI writing tools could lead scholars from low-income countries to erase their own voices",
+    "link": "https://www.nature.com/articles/d41586-026-00121-x",
+    "authors": [
+      "Zhenning Li",
+      "Zhengbing He"
+    ],
+    "summary": "Nature, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00121-x\">doi:10.1038/d41586-026-00121-x</a>AI writing tools could lead scholars from low-income countries to erase their own voices",
+    "source": "Nature",
+    "date": "2026-01-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00072-3",
+    "title": "AlphaFold can help African researchers to do cutting-edge structural biology",
+    "link": "https://www.nature.com/articles/d41586-026-00072-3",
+    "authors": [
+      "Emmanuel Nji"
+    ],
+    "summary": "Nature, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00072-3\">doi:10.1038/d41586-026-00072-3</a>AlphaFold can help African researchers to do cutting-edge structural biology",
+    "source": "Nature",
+    "date": "2026-01-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00092-z",
+    "title": "How to improve vaccine uptake: a huge study offers clues",
+    "link": "https://www.nature.com/articles/d41586-026-00092-z",
+    "authors": [
+      "Brian Owens"
+    ],
+    "summary": "Nature, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00092-z\">doi:10.1038/d41586-026-00092-z</a>An analysis of more than one million people in the UK found that two-thirds of people who were vaccine-hesitant during the COVID-19 pandemic went on to get vaccinated.",
+    "source": "Nature",
+    "date": "2026-01-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00076-z",
+    "title": "How did birds evolve? The answer is wilder than anyone thought",
+    "link": "https://www.nature.com/articles/d41586-026-00076-z",
+    "authors": [
+      "Michael Marshall"
+    ],
+    "summary": "Nature, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00076-z\">doi:10.1038/d41586-026-00076-z</a>Discoveries in Jurassic rocks reveal that birds were adept fliers earlier than scientists realized.",
+    "source": "Nature",
+    "date": "2026-01-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00049-2",
+    "title": "AI can spark creativity — if we ask it how, not what, to think",
+    "link": "https://www.nature.com/articles/d41586-026-00049-2",
+    "authors": [
+      "Brian Uzzi"
+    ],
+    "summary": "Nature, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00049-2\">doi:10.1038/d41586-026-00049-2</a>Studies aiming to maximize human creativity demonstrate that people work best when buoyed up by others who show them new ways to innovate.",
+    "source": "Nature",
+    "date": "2026-01-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00075-0",
+    "title": "The academic community failed Wikipedia for 25 years — now it might fail us",
+    "link": "https://www.nature.com/articles/d41586-026-00075-0",
+    "authors": [
+      "Dariusz Jemielniak"
+    ],
+    "summary": "Nature, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00075-0\">doi:10.1038/d41586-026-00075-0</a>Artificial-intelligence systems are feeding on Wikipedia without giving back, and academic indifference is threatening the survival of what is arguably the most widely used reference work on the planet.",
+    "source": "Nature",
+    "date": "2026-01-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00142-6",
+    "title": "Daily briefing: The neural circuit that can make it hard to start a difficult task",
+    "link": "https://www.nature.com/articles/d41586-026-00142-6",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 12 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00142-6\">doi:10.1038/d41586-026-00142-6</a>A ‘motivation brake’ in our brains makes taking that first step towards a task less appealing. Plus, US scientists have signed an open letter in solidarity with Greenland and what Wikipedia can teach us about trust.",
+    "source": "Nature",
+    "date": "2026-01-12"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01896-w",
+    "title": "A reversed latitudinal ocean oxygen gradient in the Proterozoic Eon",
+    "link": "https://www.nature.com/articles/s41561-025-01896-w",
+    "authors": [
+      "Ruliang He",
+      "Alexandre Pohl",
+      "Xingliang Zhang",
+      "Chao Chang",
+      "Ashley Prow-Fleischer",
+      "Jonathan L. Payne",
+      "Shuhai Xiao",
+      "Andy Ridgwell",
+      "Zunli Lu"
+    ],
+    "summary": "Nature Geoscience, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s41561-025-01896-w\">doi:10.1038/s41561-025-01896-w</a>Dissolved oxygen levels in the Proterozoic surface ocean decreased from the Equator towards the mid–high latitudes, the opposite of the modern latitudinal gradient, according to a compilation of I/Ca proxy records and Earth system modelling.",
+    "source": "Nature Geoscience",
+    "date": "2026-01-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01899-7",
+    "title": "Amazon forest nutrient limitation is mitigated by distant fire emissions",
+    "link": "https://www.nature.com/articles/s41561-025-01899-7",
+    "authors": [
+      "Adrià Descals",
+      "Ivan A. Janssens",
+      "Josep Peñuelas"
+    ],
+    "summary": "Nature Geoscience, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s41561-025-01899-7\">doi:10.1038/s41561-025-01899-7</a>The transport of aerosols from distant fires in deforested and savannah regions supplies phosphorus to undisturbed Amazon rainforests and influences their productivity, according to modelled phosphorus deposition estimates and satellite data.",
+    "source": "Nature Geoscience",
+    "date": "2026-01-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68041-4",
+    "title": "Domain wall motion-driven magnetic convolutional accelerator",
+    "link": "https://www.nature.com/articles/s41467-025-68041-4",
+    "authors": [
+      "Bingqian Dai",
+      "Tianyi Wang",
+      "Albert Lee",
+      "Shijie Xu",
+      "Chin-Chung Chen",
+      "Kin Wong",
+      "Dingyi Li",
+      "Malcolm Jackson",
+      "Yang Cheng",
+      "Puyang Huang",
+      "Yaochen Li",
+      "Chao Yun",
+      "Qingyuan Shu",
+      "Haoran He",
+      "Lixuan Tai",
+      "Hanshen Huang",
+      "Tien-Kan Chung",
+      "Yanglong Hou",
+      "Kang L. Wang"
+    ],
+    "summary": "Nature Communications, Published online: 14 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68041-4\">doi:10.1038/s41467-025-68041-4</a>The authors demonstrate a magnetic compute-in-memory platform that performs convolution using domain wall motion, enabling highly energy- and area-efficient processing for future AI hardware.",
+    "source": "Nature Communications",
+    "date": "2026-01-14"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68337-z",
+    "title": "Towards high resolution, validated and open global wind power assessments",
+    "link": "https://www.nature.com/articles/s41467-026-68337-z",
+    "authors": [
+      "E. U. Peña-Sánchez",
+      "P. Dunkel",
+      "C. Winkler",
+      "H. Heinrichs",
+      "F. Prinz",
+      "J. M. Weinand",
+      "R. Maier",
+      "S. Dickler",
+      "S. Chen",
+      "K. Gruber",
+      "T. Klütz",
+      "J. Linßen",
+      "D. Stolten"
+    ],
+    "summary": "Nature Communications, Published online: 14 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68337-z\">doi:10.1038/s41467-026-68337-z</a>This work presents a global wind power simulation tool that uses high-resolution data and extensive validation to improve accuracy. It corrects wind speed biases and validates against real-world data, enhancing reliability for wind energy assessments across various scales and regions.",
+    "source": "Nature Communications",
+    "date": "2026-01-14"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68399-z",
+    "title": "Aged skin exacerbates experimental osteoarthritis via enhanced IL-36R signaling",
+    "link": "https://www.nature.com/articles/s41467-026-68399-z",
+    "authors": [
+      "Dalin Chen",
+      "Chong Wang",
+      "Changsheng Yang",
+      "Qinwei Cheng",
+      "Liangyu Chen",
+      "Panpan Yang",
+      "Zilin Zou",
+      "Zining Wang",
+      "Honghao Li",
+      "Yun Xiao",
+      "Junfeng Wu",
+      "Ee Ke",
+      "Xiaogang Wang",
+      "Bin Huang",
+      "Xiaochun Bai",
+      "Kai Li"
+    ],
+    "summary": "Nature Communications, Published online: 14 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68399-z\">doi:10.1038/s41467-026-68399-z</a>Age-related inflammation is a key mediator of the pathogenesis of osteoarthritis (OA), but the mechanism is not fully understood. Here, the authors show that IL-36 agonists are systemic inflammatory factors released from aged skin to promote senescence in joint cells and aggravate OA progression.",
+    "source": "Nature Communications",
+    "date": "2026-01-14"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67729-x",
+    "title": "Feedback-induced attitudinal changes in risk preferences",
+    "link": "https://www.nature.com/articles/s41467-025-67729-x",
+    "authors": [
+      "Antonios Nasioulas",
+      "Elise Potier",
+      "Fabien Cerrotti",
+      "Maël Lebreton",
+      "Stefano Palminteri"
+    ],
+    "summary": "Nature Communications, Published online: 14 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67729-x\">doi:10.1038/s41467-025-67729-x</a>Normative theory predicts that feedback should not affect decisions under risk, but past findings disagree. Here, the authors show that feedback shifts risk-taking by changing attitudes rather than through learning.",
+    "source": "Nature Communications",
+    "date": "2026-01-14"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68191-5",
+    "title": "Chronically implantable <i>μ</i>LED arrays for optogenetic cortical surface stimulation in mice",
+    "link": "https://www.nature.com/articles/s41467-025-68191-5",
+    "authors": [
+      "Ryan Greer",
+      "Antonin Verdier",
+      "Emma Butt",
+      "Yunzhou Cheng",
+      "Ella Callas",
+      "Niall McAlinden",
+      "Alicia Aniorte",
+      "Eya Mabrouk Kakaouia",
+      "Magdalena Pereyra",
+      "Martin D. Dawson",
+      "Brice Bathellier",
+      "Keith Mathieson"
+    ],
+    "summary": "Nature Communications, Published online: 14 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68191-5\">doi:10.1038/s41467-025-68191-5</a>Achieving high resolution with optical neural interfaces is challenging. Here, the authors developed and chronically implanted 100-pixel microLED arrays on the surface of the mouse auditory cortex for optogenetic behavioural experiements.",
+    "source": "Nature Communications",
+    "date": "2026-01-14"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68336-0",
+    "title": "Deterministic and highly indistinguishable single photons in the telecom C-band",
+    "link": "https://www.nature.com/articles/s41467-026-68336-0",
+    "authors": [
+      "Nico Hauser",
+      "Matthias Bayerbach",
+      "Jochen Kaupp",
+      "Yorick Reum",
+      "Giora Peniakov",
+      "Johannes Michl",
+      "Martin Kamp",
+      "Tobias Huber-Loyola",
+      "Andreas T. Pfenning",
+      "Sven Höfling",
+      "Stefanie Barz"
+    ],
+    "summary": "Nature Communications, Published online: 14 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68336-0\">doi:10.1038/s41467-026-68336-0</a>Solid-state quantum emitters in the telecom C-band hold promise for quantum communication applications, but achieving high photon indistinguishability remains challenging. Here, the authors deterministically generate highly indistinguishable single photons in the telecom C-band from InAs/InAlGaAs quantum dots.",
+    "source": "Nature Communications",
+    "date": "2026-01-14"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68380-w",
+    "title": "Author Correction: Droplet surface spontaneous oxidation as a dominant formation pathway of organosulfates in the marine atmosphere",
+    "link": "https://www.nature.com/articles/s41467-026-68380-w",
+    "authors": [
+      "Lin Du",
+      "Yaru Song",
+      "Jianlong Li",
+      "Yibei Wan",
+      "Huan Yu",
+      "Xueqi Ma",
+      "Zhaomin Yang",
+      "Jie Hu",
+      "Kuanyun Hu",
+      "Xuxu Gao",
+      "Qinyi Li",
+      "Christian George",
+      "Maofa Ge",
+      "Kun Li"
+    ],
+    "summary": "Nature Communications, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68380-w\">doi:10.1038/s41467-026-68380-w</a>Author Correction: Droplet surface spontaneous oxidation as a dominant formation pathway of organosulfates in the marine atmosphere",
+    "source": "Nature Communications",
+    "date": "2026-01-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68334-2",
+    "title": "Intranasal unadjuvanted LcrV boosts parental <i>Yersinia</i> OMV primed lung immunity against pneumonic plague in mice",
+    "link": "https://www.nature.com/articles/s41467-026-68334-2",
+    "authors": [
+      "Saugata Majumder",
+      "Shreya Das",
+      "Mohd Saqib",
+      "McKenzie Van der Veer",
+      "Moe Acee",
+      "Wei Sun"
+    ],
+    "summary": "Nature Communications, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68334-2\">doi:10.1038/s41467-026-68334-2</a>Yersinia pestis is a bacterial pathogen that caused major historic pandemic outbreaks and currently associated with endemic infection. Here the authors use an intramuscular prime vaccination with OMV46-LcrV/Alum and a subsequent boost with intranasal adjuvant free LcrV antigen and test in a murine model of pneumonic plague.",
+    "source": "Nature Communications",
+    "date": "2026-01-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00759-1",
+    "title": "Drone docks for automated forest phenology monitoring",
+    "link": "https://www.nature.com/articles/s43017-026-00759-1",
+    "authors": [
+      "Yanwei Cong"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s43017-026-00759-1\">doi:10.1038/s43017-026-00759-1</a>Yangwei Cong describes how drone docking stations can improve the coverage and efficacy of phenological monitoring in forests.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-01-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03185-9",
+    "title": "Historical diurnal temperature range trends constrain future climate projections",
+    "link": "https://www.nature.com/articles/s43247-026-03185-9",
+    "authors": [
+      "Anqi Liu",
+      "Daokai Xue",
+      "Ben Yang",
+      "Danqing Huang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s43247-026-03185-9\">doi:10.1038/s43247-026-03185-9</a>The diurnal temperature range (DTR), which measures the difference between daily maximum and minimum temperatures, is a vital indicator of climate extremes. However, predicting future changes in DTR under global warming remains challenging due to significant uncertainties in model projections. This study uncovers a significant link between historical DTR trends and future projections on both global and regional scales. Leveraging this relationship, we introduce a constraining framework to enhance the accuracy of regional climate projections. The mechanism is that the changes in DTR are primarily driven by external forces such as greenhouse gas emissions, rather than internal climate variability. Increasing greenhouse gases reduces cloud cover, which migrates DTR decline by enhancing daytime shortwave radiation and reducing nighttime longwave radiation. While this relationship is generally robust across seasons, it weakens at high latitudes in winter due to minimal solar radiation. Our findings contribute to reducing uncertainties in model projections, offering valuable insights into future changes in DTR and their implications for regional climate responses.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03188-6",
+    "title": "Evidence for diverse anaerobic metabolisms in 3.7-billion-year-old marine detrital sediments",
+    "link": "https://www.nature.com/articles/s43247-026-03188-6",
+    "authors": [
+      "Austin Jarl Boyd",
+      "Magnus August Ravn Harding",
+      "Elizabeth Ann Bell",
+      "Minik Thorleif Rosing",
+      "Tue Hassenkam"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s43247-026-03188-6\">doi:10.1038/s43247-026-03188-6</a>Organic debris from organisms living in the ocean water column was used as substrate for microbes carrying out anaerobic respiration within the oldest known detrital sediments on Earth, according to isotopic and petrological analysis.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03186-8",
+    "title": "Cumulative hydrodynamic impacts of offshore wind farms on North Sea currents and surface temperatures",
+    "link": "https://www.nature.com/articles/s43247-026-03186-8",
+    "authors": [
+      "Nils Christiansen",
+      "Ute Daewel",
+      "Corinna Schrum"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s43247-026-03186-8\">doi:10.1038/s43247-026-03186-8</a>In the North Sea, large-scale offshore wind development could reduce current velocities by up to 20% and increase sea surface temperatures, according to ocean physics simulations of the North Sea.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03187-7",
+    "title": "New insights from the bias-corrected simulations of CMIP6 in Northern Hemisphere’s snow drought",
+    "link": "https://www.nature.com/articles/s43247-026-03187-7",
+    "authors": [
+      "Yong Hu",
+      "Xuhai Yang",
+      "Zican He",
+      "Fei Zhang",
+      "Boliang Dong",
+      "Yuanfang Chai"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s43247-026-03187-7\">doi:10.1038/s43247-026-03187-7</a>Under high-emission scenarios by 2100, exceptional snow droughts will increase in frequency and duration, particularly affecting water-stressed areas such as Europe, western Asia, and central North America, according to a Cumulative Distribution Function-transform bias correction method.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03083-6",
+    "title": "Triassic–Jurassic environmental instability on the subtropical eastern Tethyan margin linked to low-latitude dinosaur dispersal",
+    "link": "https://www.nature.com/articles/s43247-025-03083-6",
+    "authors": [
+      "Jianbo Chen",
+      "Yi-Ning Niu",
+      "Rongyao Ma",
+      "Yan-Ling Zhou",
+      "Wen-Jie Liu",
+      "Ya-Ming Wang",
+      "Hai-Lu You",
+      "Xing Xu",
+      "Shu-Zhong Shen",
+      "Zhuo Feng"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s43247-025-03083-6\">doi:10.1038/s43247-025-03083-6</a>Early regional sauropodomorph fossils from 200.17 Ma suggest post-Triassic mass extinction dinosaur colonization in low paleolatitudes, likely due to Central Atlantic Magmatic Province stressors and increased climate seasonality, according to chemostratigraphic and astrochronological analysis of a core from the Kunming Basin in China.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-13"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825225003344",
+    "title": "Preferential flow paths in active rock glaciers",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825225003344?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 January 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Simon Seelig, Magdalena Seelig, Karl Krainer, Gerfried Winkler",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-01-14"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000061",
+    "title": "Tectonic controls on lithium deposits in the Erzgebirge / Krušné hory region: Regional scale reconstruction of structural controls on late-Variscan mineralization",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000061?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 12 January 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Jan Černý, Samuel T. Thiele, Marie Guilcher, Mathias Burisch, Uwe Lehmann, Henrik Kaufmann, Lutz Sonnabend, Jens Gutzmer",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-01-14"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000178",
+    "title": "Fluvial responses to climate and tectonics throughout the Quaternary in the semi-arid Andes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000178?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 March 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 678Author(s): A. Binnie, S.A. Binnie, P. Victor, J-L. García, S. Heinze, T.J. Dunai",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-01-14"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000129",
+    "title": "Trace element and stable Sr isotope evidence for seamount-driven variations in subducted sediment and carbon recycling in Central America",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000129?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 March 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 678Author(s): Alexander J. Hammerstrom, Rita Parai, Richard W. Carlson, Vlad C. Manea, Marina Manea, Stephen J. Turner",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-01-14"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000166",
+    "title": "Frictional properties of Longmenshan sandstone under varying true triaxial stress and pore pressure conditions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000166?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 March 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 678Author(s): Zhiming Liang, Zhenyu Zhang, Beata Orlecka-Sikora, Shengpeng Hao, Kun Long",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-01-14"
+  },
+  {
+    "id": "10.1029/grl.71847",
+    "title": "Issue Information",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/grl.71847?af=R",
+    "authors": [
+      null
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 2, 28 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-12"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001670372600013X",
+    "title": "Coupling X-ray absorption spectroscopy and chemical extractions to investigate phosphorus phase partitioning in Ningxiang iron deposits",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001670372600013X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 January 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Qiang Zhou, Yafang Song, Kai Gan, Yijun Xiong, Than Dam, Mengqiang Zhu, Changzhi Wu, Jihua Hao, Simon W. Poulton, Wei Li",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-01-14"
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-00087-w",
     "title": "Developing super-tortillas to address malnutrition in Latin America",
     "link": "https://www.nature.com/articles/d41586-026-00087-w",
