@@ -1,5 +1,779 @@
 [
   {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aek0526?af=R",
+    "title": "Crick: A Mind in Motion",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aek0526?af=R",
+    "authors": [],
+    "summary": "Science, Volume 393, Issue 6810, Page 467-467, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aei1519?af=R",
+    "title": "The optimism of doubt",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei1519?af=R",
+    "authors": [
+      "Sorin M. S. Krammer"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 466-467, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adq7402?af=R",
+    "title": "Toward an exact quantum many-body treatment of Kondo correlation in magnetic impurities",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adq7402?af=R",
+    "authors": [
+      "Tianyu Zhu, Linqing Peng, Huanchen Zhai, Zhi-Hao Cui, Runze Chi, Garnet Kin-Lic Chan"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 522-526, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ads5397?af=R",
+    "title": "An adaptor for feedback regulation of heme biosynthesis by a mitochondrial protease",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ads5397?af=R",
+    "authors": [
+      "Thomas Cottle, Lydia Joh, Cori Posner, Adam DeCosta, Dean R. Campagna, Mark D. Fleming, Sarah Ducamp, Julia R. Kardon"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ady0832?af=R",
+    "title": "Atlas of lysosomal aging reveals a metabolite signature shared with lysosomal storage disorders",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ady0832?af=R",
+    "authors": [
+      "Anna M. Puszynska, Thao P. Nguyen, Andrew L. Cangelosi, Andrea Armani, Justin M. Roberts, Kristin A. Singh, James C. Cameron, Tenzin Tseyang, Grace Y. Liu, Steven Lai, Hans-Georg Sprenger, Jason Yang, William N. Colgan, Jibril F. Kedir, Kathrin M. Kajderowicz, Theodore K. Esantsi, Yuancheng Ryan Lu, Millenia Waite, Tenzin Kunchok, Caroline A. Lewis, Fabian Schulte, George W. Bell, David M. Sabatini, Jonathan S. Weissman"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adz8081?af=R",
+    "title": "X-chromosome inactivation draws L1 mutagenesis to the human X chromosome",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adz8081?af=R",
+    "authors": [
+      "Jose de los Rios Barreda, Maria E. Ferreiro, Natasha Jansz, Charles C. Bell, Juan M. Botto, Trung V. Nguyen, Barun Pradhan, Minchun Chen, Ana Colomer-Boronat, Darwin J. Da Costa Guevara, Diane A. Flasch, Sabrina Gericke, Thomas E. Wilson, Adam D. Ewing, Sara R. Heras, Francisco J. Sanchez-Luque, Ryan Lister, John V. Moran, Geoffrey J. Faulkner"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aed8175?af=R",
+    "title": "n-Type polymer layers enable efficient, scalable, and thermally stable perovskite solar modules",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aed8175?af=R",
+    "authors": [
+      "Danpeng Gao, Jie Gong, Lei Yang, Ning Wang, Bohong Chang, Liangchen Qian, Francesco Vanin, Chunlei Zhang, Zexin Yu, Shuai Li, Jianqiu Gong, Zonglong Zhu"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 498-503, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aed9359?af=R",
+    "title": "Calcium isotopes link ocean acidification to Aptian–Albian foraminiferal extinctions",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aed9359?af=R",
+    "authors": [
+      "Jonathan Chen, Andrew D. Jacobson, Brian T. Huber, Kenneth G. MacLeod, Chuyan Wan, Anna R. Waldeck, Barbara Balestra, Bradley B. Sageman"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 527-531, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aef2893?af=R",
+    "title": "A 10-million-year biogeographic holding pen primed the Great American Biotic Interchange",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aef2893?af=R",
+    "authors": [
+      "Z. Jack Tseng, Leah X. Kahn, Adolfo Pacheco-Castro, Oscar Carranza-Castañeda, José Jorge Aranda-Gomez, Yang Wang, Julio César Chávez-Ambriz, Chance Hannold, H. Gregory McDonald, Xiaoming Wang"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 532-536, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aef5438?af=R",
+    "title": "Enabling sustainable supply of the essential cancer medicines etoposide and teniposide in yeast",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aef5438?af=R",
+    "authors": [
+      "Siyu Shen, Xue Hu, Dan Li, Yuru Tong, Yunpeng Lv, Zhenjiang Tian, Jiadian Wang, Hao Tang, Yapeng Wang, Lan Kang, Jens Nielsen, Luqi Huang, Yating Hu"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeg1730?af=R",
+    "title": "Plasma surface engineering for efficient and stable perovskite solar cells and modules",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeg1730?af=R",
+    "authors": [
+      "Rundong Fan, Yue Ma, Shuoyang Xu, Liang Cheng, Zhongyang Zhang, Yan Li, Huijun Liu, Zhaoboxun Bao, Guilin Liu, Yuetong Wu, Xinmeng Zhuang, Kailin Li, Yanrun Chen, Jackson Tze Fung Ng, BoShiun Huang, Wentao Zhou, Yu Zhang, Ying Han, Ruiyang Yin, Shaocheng Liu, Tianhao Xia, Mengqi Xiao, Xiaowei Zhan, Xiaoxu Zhao, Qi Chen, Huanping Zhou"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 490-497, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adz7928?af=R",
+    "title": "Spatiotemporal multiomics uncover tumor ecosystem dynamics during metastatic colonization",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adz7928?af=R",
+    "authors": [
+      ", , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , Miguel A. Esteban, , , , , , , , ,"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aef3178?af=R",
+    "title": "DNA polymerization activates RNA cleavage of a reverse transcriptase–like antiviral enzyme",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aef3178?af=R",
+    "authors": [
+      ", , , , , , , , , , , , ,"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aec6298?af=R",
+    "title": "Catalytic Appel fluorination of alcohols with potassium fluoride",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aec6298?af=R",
+    "authors": [
+      "Anirban Mondal, Job J. C. Struijs, Caleb J. N. Doyle, Zijun Chen, Zian Wang, Worawit Tangamornchaipattana, Christophe Allais, Paul F. Richardson, Jared Piper, Robert S. Paton, Simon Aldridge, Véronique Gouverneur"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 514-521, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aec2906?af=R",
+    "title": "The molecular architecture of mammalian vitreous body collagen fibrils",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aec2906?af=R",
+    "authors": [
+      "Xinyao Lou, Ye Cong, Yuqian Xu, Yazhao Liu, Ying Li, Chuangye Yan"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 509-513, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeb1157?af=R",
+    "title": "Supergene control of chiral development in mirror-image flowers",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeb1157?af=R",
+    "authors": [
+      "Haoran Xue, Marco Saltini, Nicola Illing, Kelly Shepherd, Olivia Page-Macdonald, Oliver Marketos, Caroline Robertson, Anand Shankar, Sarah Süß, Christian Kappel, Saleh Alseekh, Eva E. Deinum, Robert A. Ingle, Michael Lenhard"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aee6957?af=R",
+    "title": "The genomic identity of early smallpox in South America",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aee6957?af=R",
+    "authors": [
+      "Bruno Romero González, Margarita Reyes-Madrid, Bernardo Arriaza, Lara M. Cassidy, Mauricio Moraga, Constanza de la Fuente Castro, Shigeki Nakagome"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 504-508, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeg0333?af=R",
+    "title": "Beyond the scales: Marine archaeogenomics for the conservation and restoration of fisheries",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeg0333?af=R",
+    "authors": [
+      "Lane M. Atmore and Bastiaan Star"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 472-479, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aek9789?af=R",
+    "title": "In Other Journals",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aek9789?af=R",
+    "authors": [
+      "Corinne Simonti, and Jesse Smith, Phil Szuromi, Mattia Maroso, Cheri Sirois, Keith T. Smith, Melissa McCartney, Joana Osório, and Yevgeniya Nusinovich"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 481-482, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aek9790?af=R",
+    "title": "The perils of fluency",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aek9790?af=R",
+    "authors": [
+      "Seungyeon Lee"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 538-538, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej5901?af=R",
+    "title": "Signatures of aging and disease in a single organelle",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej5901?af=R",
+    "authors": [
+      "Jeeyoon Na and Anne Brunet"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 461-461, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aei5362?af=R",
+    "title": "When mammals crossed between continents",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei5362?af=R",
+    "authors": [
+      "Jenny L. McGuire and Claire M. Williams"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 458-459, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej3543?af=R",
+    "title": "Why the X chromosome is rich in L1 mobile elements",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej3543?af=R",
+    "authors": [
+      "Aurélien J. Doucet and Gael Cristofari"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 459-460, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aek2948?af=R",
+    "title": "Witness to ocean acidification",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aek2948?af=R",
+    "authors": [
+      "R. Mark Leckie"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 462-462, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeh0950?af=R",
+    "title": "Making antimicrobial knowledge contagious",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeh0950?af=R",
+    "authors": [
+      "Kusha Gurung"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 469-469, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aek4288?af=R",
+    "title": "Editor’s Note for the Report “Host genetic diversity enables Ebola hemorrhagic fever pathogenesis and resistance”",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aek4288?af=R",
+    "authors": [
+      "H. Holden Thorp"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 469-469, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej6290?af=R",
+    "title": "China’s cordgrass removal increases erosion",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej6290?af=R",
+    "authors": [
+      "Wei Zhang and Hao Li"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 468-468, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ael0160?af=R",
+    "title": "A rocky rollout",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ael0160?af=R",
+    "authors": [
+      "Jon Cohen"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 450-457, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ael0162?af=R",
+    "title": "How black holes get hitched",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ael0162?af=R",
+    "authors": [
+      "Adrian Cho"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 442-443, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ael0163?af=R",
+    "title": "NIH is again terminating politically sensitive grants",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ael0163?af=R",
+    "authors": [
+      "Jocelyn Kaiser and Sara Reardon"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 443-444, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ael0164?af=R",
+    "title": "U.S. unveils first Genesis Mission grants for AI in research",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ael0164?af=R",
+    "authors": [
+      "Celina Zhao and Adrian Cho"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 444-445, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ael0166?af=R",
+    "title": "AI’s top startups are barely publishing their research",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ael0166?af=R",
+    "authors": [
+      "Celina Zhao"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 447-448, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ael0167?af=R",
+    "title": "Ancient DNA shows how smallpox got to the Americas",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ael0167?af=R",
+    "authors": [
+      "Lizzie Wade"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 448-449, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ael0161?af=R",
+    "title": "Privacy-preserving tools banned in census",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ael0161?af=R",
+    "authors": [
+      "Jeffrey Mervis"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 440-441, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ael0165?af=R",
+    "title": "Golden Age report is a missed opportunity, critics say",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ael0165?af=R",
+    "authors": [
+      "Jeffrey Mervis"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 446-447, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej7915?af=R",
+    "title": "When the future loses its voice",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej7915?af=R",
+    "authors": [
+      "Anne Goujon"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aek8701?af=R",
+    "title": "Churn, not crisis, for UK science",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aek8701?af=R",
+    "authors": [
+      "Geraint Rees and James Wilsdon"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 439-439, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej5902?af=R",
+    "title": "Surfacing brain stimulation",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej5902?af=R",
+    "authors": [
+      "Jianxun Ren"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 471-471, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej5900?af=R",
+    "title": "Rewiring the paralyzed body’s false alarm",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej5900?af=R",
+    "authors": [
+      "Jan Elaine Soriano"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 470-471, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aef3529?af=R",
+    "title": "Rigor is not readiness: The PERL framework for evidence-based policy",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aef3529?af=R",
+    "authors": [
+      "Christopher Cotton"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 463-465, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aek9788?af=R",
+    "title": "In Science Journals",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aek9788?af=R",
+    "authors": [
+      "Michael Funk, and Unnati Sonawala, Madeleine Seale, Phil Szuromi, Corinne Simonti, Michael A. Funk, Jelena Stajic, Yi Yin, Annalisa VanHook, Jake S. Yeston, Sacha Vignieri, L. Bryan Ray, Di Jiang, Priscilla N. Kelly, Stella M. Hurtley, Jesse Smith, Dorothy Hallberg, and Christiana N. Fogg"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, Page 480-482, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aek6646?af=R",
+    "title": "Erratum for the Research Article “Elastic ice microfibers”",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aek6646?af=R",
+    "authors": [
+      "H. Holden ThorpH. Holden Thorp"
+    ],
+    "summary": "Science, Volume 393, Issue 6810, July 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02040-y",
+    "title": "Threefold increase in atmospheric–riverine compound heatwaves under climate change",
+    "link": "https://www.nature.com/articles/s41561-026-02040-y",
+    "authors": [
+      "Yu Zhou",
+      "Yanxia Shen",
+      "Wei Zhi",
+      "Bo Zhou",
+      "Senlin Zhu",
+      "Li Yuan",
+      "Yangyang Wang",
+      "Chuan Wang",
+      "Kun Shi",
+      "Amir Aghakouchak",
+      "Michelle T. H. van Vliet",
+      "Chunhui Lu",
+      "R. Iestyn Woolway"
+    ],
+    "summary": "Nature Geoscience, Published online: 30 July 2026; <a href=\"https://www.nature.com/articles/s41561-026-02040-y\">doi:10.1038/s41561-026-02040-y</a>Co-occurring atmospheric and river heatwaves have tripled since the 1980s across the USA and Europe, and are projected to become the norm by 2100, according to model simulations.",
+    "source": "Nature Geoscience",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76186-z",
+    "title": "Antibiotic development and a path to access in India",
+    "link": "https://www.nature.com/articles/s41467-026-76186-z",
+    "authors": [
+      "Abi Manesh",
+      "Kamini Walia",
+      "Taslimarif Saiyed",
+      "Balaji Veeraraghavan",
+      "David L. Paterson"
+    ],
+    "summary": "Nature Communications, Published online: 31 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-76186-z\">doi:10.1038/s41467-026-76186-z</a>India is emerging as an important developer and manufacturer of antibiotics, which includes several agents that are in clinical use or advanced stages of development. Here, the authors discuss the successes, and the implications for global access to antimicrobials.",
+    "source": "Nature Communications",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76223-x",
+    "title": "Plasma wave observations from Juno spacecraft at the Jovian bow shock",
+    "link": "https://www.nature.com/articles/s41467-026-76223-x",
+    "authors": [
+      "J. Joseph",
+      "W. S. Kurth",
+      "L. B. Wilson III",
+      "J. E. P. Connerney",
+      "F. Allegrini",
+      "R. J. Wilson",
+      "A. H. Sulaiman",
+      "R. W. Ebert",
+      "J. B. Faden",
+      "C. W. Piker",
+      "A. N. Jaynes",
+      "B. H. Mauk",
+      "S. J. Bolton"
+    ],
+    "summary": "Nature Communications, Published online: 31 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-76223-x\">doi:10.1038/s41467-026-76223-x</a>Plasma waves mediate conversion of solar wind kinetic energy into thermal energy at bow shocks. Here, the authors show waves at Jupiter’s bow shock resemble those at Earth but exhibit distinct harmonic structures, enhancing heating.",
+    "source": "Nature Communications",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76257-1",
+    "title": "Early life sugar rationing and ageing related diseases, biological ageing and mortality",
+    "link": "https://www.nature.com/articles/s41467-026-76257-1",
+    "authors": [
+      "Jiazhen Zheng",
+      "Zhen Zhou",
+      "Jinghan Huang",
+      "Qiang Tu",
+      "Haisheng Wu",
+      "Quan Yang",
+      "Qi Qi",
+      "Wenbo Huang",
+      "Qingwen Ren",
+      "Junchun Shen",
+      "Xinlong Shi",
+      "Can Chen",
+      "Chuang Yang",
+      "Daniel J. Cuthbertson"
+    ],
+    "summary": "Nature Communications, Published online: 31 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-76257-1\">doi:10.1038/s41467-026-76257-1</a>Studies on how early-life nutrition influence ageing are limited. Here, using data from the UK Biobank, the authors find that sugar rationing during early life is associated with a lower incidence of ageing-related diseases and slower aging.",
+    "source": "Nature Communications",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76248-2",
+    "title": "A machine learning framework for predicting and modulating condition-dependent protein phase separation",
+    "link": "https://www.nature.com/articles/s41467-026-76248-2",
+    "authors": [
+      "Jangwon Bae",
+      "Minjun Kang",
+      "Donghyuk Lee",
+      "Kuk-Jin Yoon",
+      "Yongwon Jung"
+    ],
+    "summary": "Nature Communications, Published online: 31 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-76248-2\">doi:10.1038/s41467-026-76248-2</a>Researchers develop a machine learning model that predicts how protein phase separation responds to environmental conditions. It is expected to help pinpoint pathological phase separation and design protein condensates with desired behavior.",
+    "source": "Nature Communications",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75571-y",
+    "title": "Ribo-ITP enables identification of translons from limited input samples",
+    "link": "https://www.nature.com/articles/s41467-026-75571-y",
+    "authors": [
+      "Vighnesh Ghatpande",
+      "Uma Paul",
+      "Logan Persyn",
+      "Yifan Tian",
+      "MacKenzie A. Howard",
+      "Can Cenik"
+    ],
+    "summary": "Nature Communications, Published online: 31 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75571-y\">doi:10.1038/s41467-026-75571-y</a>Studying translation regulation in limited biological samples is challenging using conventional ribosome profiling methods. Here, the authors show that RiboITP enables discovery of thousands of novel translons with potential regulatory and functional roles in microdissected brain tissue and embryos.",
+    "source": "Nature Communications",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76238-4",
+    "title": "Skeletal restructuring of oxetanes through photoinduced oxygen deletion",
+    "link": "https://www.nature.com/articles/s41467-026-76238-4",
+    "authors": [
+      "Ying-Qi Zhang",
+      "Shuo-Han Li",
+      "Ming Joo Koh"
+    ],
+    "summary": "Nature Communications, Published online: 30 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-76238-4\">doi:10.1038/s41467-026-76238-4</a>Atom deletion offers a powerful strategy for skeletal editing and accessing new chemical space. Here the authors report a catalyst-free photoinduced strategy that excises oxygen from oxetanes, enabling chemo- and regioselective ring contraction or skeletal remodelling.",
+    "source": "Nature Communications",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75908-7",
+    "title": "Public responses about air quality in the world’s ten most populous countries",
+    "link": "https://www.nature.com/articles/s41467-026-75908-7",
+    "authors": [
+      "Noah Lim",
+      "Alessandro Del Ponte",
+      "Lina Ang",
+      "Wei Jie Seow"
+    ],
+    "summary": "Nature Communications, Published online: 30 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75908-7\">doi:10.1038/s41467-026-75908-7</a>This study analyzes public responses to air pollution in the ten most populous countries, finding that people more exposed to air pollution know less about air quality but have higher concern for it and are more engaged in preventative practices.",
+    "source": "Nature Communications",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2615368123?af=R",
+    "title": "Sediment accumulation rate predicts the temporal resolution of marine fossil assemblages",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2615368123?af=R",
+    "authors": [
+      "Michał KowalewskiAdam TomašovýchRafał NawrotDaniele ScarponiMartin ZuschinPaolo G. AlbanoQuan HuaDarrell S. KaufmanSusan M. KidwellMatias RitterMarcello G. SimõesLuis TorresBettina BachmannMichaela BerensmeierTroy A. DexterAlexandra HaselmairIvo GallmetzerClaudio PellegriniLukas SchweiglJan StegerMatthew A. Kosnikahttps://ror.org/02y3ad647Florida Museum of Natural History, University of Florida, Gainesville, FL 32611bhttps://ror.org/03h7qq074Earth Science Institute, Slovak Academy of Sciences, Bratislava 84005, Slovakiachttps://ror.org/03prydq77Department of Palaeontology, University of Vienna, Vienna 1090, Austriadhttps://ror.org/01111rn36Department of Biological, Geological and Environmental Sciences, University of Bologna, Bologna 40126, Italyehttps://ror.org/03v5jj203Department of Marine Animal Conservation and Public Engagement, Stazione Zoologica Anton Dohrn, Naples 80121, Italyfhttps://ror.org/05j7fep28Australian Nuclear Science and Technology Organisation, Lucas Heights, NSW 2234, Australiaghttps://ror.org/00rqy9422School of Social Science, University of Queensland, St. Lucia, QLD 4072, Australiahhttps://ror.org/0272j5188School of Earth and Sustainability, Northern Arizona University, Flagstaff, AZ 86011ihttps://ror.org/024mw5h28Department of the Geophysical Sciences, University of Chicago, Chicago, IL 60637jhttps://ror.org/041yk2d64Centro de Estudos Costeiros, Limnológicos e Marinhos, Campus Litoral Norte, Universidade Federal do Rio Grande do Sul, Imbé 95625, Brazilkhttps://ror.org/00987cb86Instituto de Biociências, Universidade Estadual Paulista, Botucatu 01049, Brazillhttps://ror.org/02y3ad647Department of Geological Sciences, University of Florida, Gainesville, FL 32611mThe Gerace Research Centre, University of Bahamas, San Salvador 4G9P, The Bahamasnhttps://ror.org/01tv5y993Third Zoological Department, Natural History Museum Vienna, Vienna 1010, AustriaoInstitute of Marine Science, National Research Council, Bologna 40129, Italyphttps://ror.org/00xmqmx64Senckenberg Research Institute and Natural History Museum Frankfurt, Senckenberg–Leibniz Institution for Biodiversity and Earth System Research, Frankfurt am Main 60325, Germanyqhttps://ror.org/01sf06y89School of Natural Sciences, Macquarie University, Sydney, NSW 2109, Australia"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 31, August 2026. <br />SignificanceEven within a single sediment layer, fossil assemblages contain the remains of organisms that lived at different times, like cemeteries where humans who lived centuries apart are buried together. This temporal mixing, or time averaging (TA), ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-07-29"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226002448",
+    "title": "Global geometry of mid-ocean and back-arc ridge systems: Ridge segments, transform faults, and non-transform offsets",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226002448?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 29 July 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Javier Escartín, Benjamin Sautter, Carmen Gaina, Roi Granot, Sven Petersen, Manuel Pubellier",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004255",
+    "title": "Middle Miocene intensification of the deep western boundary current offshore eastern Greenland",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004255?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 October 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 692Author(s): Margaret A. Morris, Ross E. Parnell-Turner, Katharina Hochmuth, David D. McNamara, Anne Briais, Leah LeVay, Anita Di Chiara, Tom Dunkley Jones, Boris Th. Karatsolis, Paul N. Pearson, Matthias Sinnesael, the IODP Expedition 395 Scientists",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004280",
+    "title": "H<sub>2</sub>O-poor minerals in equilibrium with volatile-bearing fluids: Insights from diamond-hosted mineral inclusions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004280?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 October 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 692Author(s): Andrea Curtolo, Maxwell C. Day, Thomas Stachel, Martha G. Pamato, Fabrizio Nestola, Ingrid L. Chinn, Davide Novella",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004371",
+    "title": "Decoupling of biological pump strength and efficiency in the eastern equatorial Pacific during the Middle Miocene Climate Optimum",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004371?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 October 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 692Author(s): Yilin Liu, Brandon B. Bell, Elizabeth M. Griffith, Mingsong Li, Yi Ge Zhang, Qingqing Jiang, Weiqi Yao",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004292",
+    "title": "Quantifying the controls of spatiotemporal variations in precipitation isotopes across Southeast Asia",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004292?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 October 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 692Author(s): Yilin Zhang, Shaoneng He, Allegra N. LeGrande, Jingyu Wang, Bernie Wee, Nathalie Goodkin, Jesse Nusbaumer, Moritz Müller, Seng Chee Poh, To Thi Hien, Xianfeng Wang",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004140",
+    "title": "Applicability of <sup>26</sup>Al and <sup>10</sup>Be for depositional age dating in deep-sea records",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004140?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 October 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 692Author(s): Jenny Feige, Alessandro Airo, Dominik Koll, Stella R. Winkler, Robin Golser, Klaus Knie, Ulf Linnemann, Silke Merchel, Georg Rugel, Peter Steier, Anton Wallner",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X2600436X",
+    "title": "The lost oceans of Venus",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X2600436X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 October 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 692Author(s): Richard C. Ghail, Eloise J.P. Crouch, Philippa J. Mason",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004231",
+    "title": "Influence of secular cooling on core-mantle boundary heat flux and mantle plume temperature over 1.8 billion years",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004231?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 October 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 692Author(s): Jiaxin Zhang, Nicolas Flament, Stéphane Labrosse, Xianzhi Cao, Dietmar Müller, Annalise Cucchiaro",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "10.1029/2025GL121160",
+    "title": "Invisible Ship Tracks Produce Mean‐State Cloud Microphysics Perturbation in Tropical Trade Cumulus",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121160?af=R",
+    "authors": [
+      "Chris J. Wright, \nJihu Liu, \nYang Cao, \nYannian Zhu, \nDaniel Rosenfeld, \nRobert Wood, \nJoel A. Thornton"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-29"
+  },
+  {
+    "id": "10.1029/2026GL122592",
+    "title": "Rapid Morphological Changes in the Intertidal Zone of the Ganges‐Brahmaputra Delta Revealed by SWOT Altimetry Mission",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122592?af=R",
+    "authors": [
+      "Nushrat Yeasmin, \nLaurent Testut, \nValérie Ballu, \nMd Jamal Uddin Khan"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-29"
+  },
+  {
+    "id": "10.1029/2025GC012798",
+    "title": "Carbonate‐Associated Sulfate Does Not Record Superheavy δ34S in Deep Scandinavian Bedrock Fractures: Implications for Pyrite Formation in the Deep Biosphere",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012798?af=R",
+    "authors": [
+      "V. Fichtner, \nF. Genske, \nE. Kooijman, \nH. Drake"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 8, August 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "10.1029/2025GC012829",
+    "title": "Petrogenesis and Tectonic Evolution of Cenozoic Magmatism in the Southernmost Northern Andes: Insights From Zircon Petrochronology",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012829?af=R",
+    "authors": [
+      "J. Iglesias, \nC. Witt, \nL. C. Sandoval Espinel, \nM. Zattin, \nM. Poujol, \nO. Bruguier, \nO. Poma, \nM. J. Hernández, \nO. Averbuch, \nM. Seyler, \nD. Bosch, \nF. Chanier, \nS. Ventalon, \nC. Liorzou, \nV. Bosse"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 8, August 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-07-29"
+  },
+  {
+    "id": "10.1029/ggge.70166",
+    "title": "Issue Information",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/ggge.70166?af=R",
+    "authors": [
+      null
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 8, August 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-07-29"
+  },
+  {
+    "id": "10.1029/2026GC013007",
+    "title": "Crustal Thickness Inversion From Magmatic Geochemistry Reveals Spatiotemporal Evolution and Two‐Stage Uplift of the Iranian Plateau",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013007?af=R",
+    "authors": [
+      "Jun Hu, \nYongwei Zhao, \nZhengquan Chen, \nNi Li, \nHuan Kang"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 8, August 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-07-29"
+  },
+  {
+    "id": "10.1029/2025JB032427",
+    "title": "Constraining the Permeability and Outer‐Rise Hydration at the Central America Margin",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032427?af=R",
+    "authors": [
+      "D. Douglas, \nB. T. Aagaard, \nJ. Naliboff, \nS. Naif"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-07-29"
+  },
+  {
+    "id": "10.1029/2025JB033259",
+    "title": "Teleseismic S‐Wave Coda Autocorrelation and vp/vs ${v}_{p}/{v}_{s}$ Distribution Over the Antarctic Ice Sheet",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033259?af=R",
+    "authors": [
+      "Ammu Sanjayan, \nThanh‐Son Phạm, \nHrvoje Tkalčić"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-07-29"
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10945-2",
     "title": "Author Correction: A ductile solid electrolyte interphase for solid-state batteries",
     "link": "https://www.nature.com/articles/s41586-026-10945-2",
