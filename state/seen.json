@@ -1,5 +1,131 @@
 [
   {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226002679",
+    "title": "A Neoproterozoic arc-backarc system in the northern Yangtze Block: Implications for crustal growth and Rodinia reconstructions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226002679?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 17 August 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Chao Chen, Hao Deng, Jin-Ling Yuan, Timothy Kusky, Qiang Chen, Zhen-Bing She, Ling-Yao Kong, Jiang Zhu, Hong-Mei Li, Jing-Meng Huang, Guo-Hu Wang, Cheng Yang, Chuan Fan",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-08-19"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004656",
+    "title": "Is anomalous molybdenum isotope fractionation in Proterozoic ocean analogue driven by colloidal organic matter?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004656?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 November 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 693Author(s): Xinming Chen, Stephen J. Romaniello, Mingyu Zhao, Michael L. McCormick, Wang Zheng, Alyssa Sherry, Brian Kendall, Ariel D. Anbar",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-08-19"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004644",
+    "title": "Nonlocal elastic unloading as a mechanism for breakdown work scaling in laboratory earthquakes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004644?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 November 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 693Author(s): Chun-Yu Ke, Gauss T. Chang, Gregory C. McLaskey, David S. Kammer, Chris Marone",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-08-19"
+  },
+  {
+    "id": "10.1029/2026GL123286",
+    "title": "Momentum Decoupling Drives Low‐Wind Events During Heatwaves in China: A Hybrid Explainable Machine Learning and Dynamical Modeling Approach",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123286?af=R",
+    "authors": [
+      "Tianshun Yang, \nYihao Liang, \nLiqing Wu, \nXuemei Wang, \nMin Shao"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-17"
+  },
+  {
+    "id": "10.1029/2026GL124640",
+    "title": "Persistent Shelf‐to‐Basin Export of Bioavailable Dissolved Organic Carbon in the Arctic Ocean",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124640?af=R",
+    "authors": [
+      "Yao Gao, \nJinqiang Guo, \nEric P. Achterberg, \nYuan Shen"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-17"
+  },
+  {
+    "id": "10.1029/2026GL123547",
+    "title": "Global Cowling Effects in the Sq‐EEJ Current System Under Electrostatic Approximation: Theoretical Simulation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123547?af=R",
+    "authors": [
+      "T. Ijuin, \nH. Jin, \nA. Yoshikawa"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-17"
+  },
+  {
+    "id": "10.1029/2025GL120916",
+    "title": "Enhanced Subsurface Warming of the Kuroshio Revealed by Long‐Term Observations During 1965–2020",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120916?af=R",
+    "authors": [
+      "Shuo Du, \nFeng Nan, \nFei Yu, \nRan Wang, \nQiang Ren"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-17"
+  },
+  {
+    "id": "10.1029/2025GL121400",
+    "title": "Variations of Mid‐Magnetotail Magnetic Pressure During Substorms",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121400?af=R",
+    "authors": [
+      "Xiaowei Ma, \nHui Zhang, \nHuanzhi Yuan, \nRunze Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-17"
+  },
+  {
+    "id": "10.1029/2026GL123372",
+    "title": "Satellite Altimetry Reveals an Eddy Train Along the Ross Sea Shelf Break",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123372?af=R",
+    "authors": [
+      "Xin Wu, \nXianxian Han, \nZhaomin Wang, \nShaojun Zheng, \nChengyan Liu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-17"
+  },
+  {
+    "id": "10.1029/2026GC013146",
+    "title": "Developing New Amphibole Thermobarometers to Constrain High P‐T Hydration Processes of Basic‐Ultrabasic Rocks",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013146?af=R",
+    "authors": [
+      "Wenbo Xu, \nWeilin Chen, \nShubham Choudhary, \nShijie Li, \nJintao Zhu, \nXiaogang Ma, \nJiamin Wang, \nShujuan Jiao, \nGuibin Zhang, \nLifei Zhang, \nRenbiao Tao"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 8, August 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-08-17"
+  },
+  {
+    "id": "10.1029/2026JB033798",
+    "title": "Temporal Changes in the Earth's Outer Core From Nuclear‐Test PKP Waves",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033798?af=R",
+    "authors": [
+      "Ying Zhou"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-18"
+  },
+  {
+    "id": "10.1029/2026JB033791",
+    "title": "Impact of Heterogeneous Mantle Viscosity on the Glacial Isostatic Adjustment Correction for GRACE(‐FO): Implications for Surface Mass Trends",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033791?af=R",
+    "authors": [
+      "E. Hightower, \nL. Caron, \nF. Landerer, \nM. Watkins, \nE. Ivins, \nE. Larour"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-17"
+  },
+  {
     "id": "https://www.nature.com/articles/s43247-026-03908-y",
     "title": "FAMOUS MORB olivines as diaries of igneous mush processes in ocean ridge plumbing systems",
     "link": "https://www.nature.com/articles/s43247-026-03908-y",
