@@ -1,5 +1,316 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-02641-y",
+    "title": "The exoskeletons are coming (to a store near you)",
+    "link": "https://www.nature.com/articles/d41586-026-02641-y",
+    "authors": [
+      "Shamini Bundell"
+    ],
+    "summary": "Nature, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02641-y\">doi:10.1038/d41586-026-02641-y</a>Technology to help people walk, run and jump is moving rapidly from labs to hiking trails.",
+    "source": "Nature",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02572-8",
+    "title": "Frontier-technology markets are too narrow — here’s how to widen them",
+    "link": "https://www.nature.com/articles/d41586-026-02572-8",
+    "authors": [
+      "Luisa Corrado",
+      "Paul Kattuman"
+    ],
+    "summary": "Nature, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02572-8\">doi:10.1038/d41586-026-02572-8</a>Governments need to keep their procurement processes as open as possible, or they will face risks of technological lock-in down the line.",
+    "source": "Nature",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02620-3",
+    "title": "Billion-dollar machine aims to set a fusion-energy record — and study nuclear weapons",
+    "link": "https://www.nature.com/articles/d41586-026-02620-3",
+    "authors": [
+      "James Dinneen"
+    ],
+    "summary": "Nature, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02620-3\">doi:10.1038/d41586-026-02620-3</a>Pacific Fusion is breaking ground next door to a US nuclear-weapons laboratory, hoping the partnership will give it an edge.",
+    "source": "Nature",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02616-z",
+    "title": "Patient’s own mitochondria injected into eyes in attempt to restore vision",
+    "link": "https://www.nature.com/articles/d41586-026-02616-z",
+    "authors": [
+      "Miryam Naddaf"
+    ],
+    "summary": "Nature, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02616-z\">doi:10.1038/d41586-026-02616-z</a>Injection of a person’s own mitochondria into the retina was safe but had only a temporary effect on restoring vision.",
+    "source": "Nature",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02571-9",
+    "title": "Can AI ever be conscious? The question stems from a misconception",
+    "link": "https://www.nature.com/articles/d41586-026-02571-9",
+    "authors": [
+      "Abeba Birhane"
+    ],
+    "summary": "Nature, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02571-9\">doi:10.1038/d41586-026-02571-9</a>A book outlines how the fields of artificial intelligence, psychology and philosophy have neglected a key aspect of consciousness: the body.",
+    "source": "Nature",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77055-5",
+    "title": "Combinatorial group testing for efficient scaling across biological applications",
+    "link": "https://www.nature.com/articles/s41467-026-77055-5",
+    "authors": [
+      "Lorenzo Talamanca",
+      "Julian Trouillon"
+    ],
+    "summary": "Nature Communications, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77055-5\">doi:10.1038/s41467-026-77055-5</a>Combinatorial group testing can reduce experimental costs but remains challenging to apply due to its complexity and the lack of implementation tools. Here, the authors present PoolPy, a complete combinatorial group testing framework, enabling up to 93% cost reduction across biological assays.",
+    "source": "Nature Communications",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77249-x",
+    "title": "Redox-stratified macromolecule degradation supports microbial survival in the oligotrophic Kermadec Trench sediments",
+    "link": "https://www.nature.com/articles/s41467-026-77249-x",
+    "authors": [
+      "Yongxin Lv",
+      "Peiyu Liu",
+      "Yan Liu",
+      "Liang Dong",
+      "Jinhua Li",
+      "Yu Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77249-x\">doi:10.1038/s41467-026-77249-x</a>Understanding how microbes survive in the crushing pressure and nutrient-poor conditions of the deepest ocean has remained a major challenge. This study reveals that Kermadec Trench microbes thrive by recycling organic matter and flexibly switching energy-generation pathways.",
+    "source": "Nature Communications",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77029-7",
+    "title": "BRANCHED1 acts as a rheostat of Nuclear Factor Y-dependent epigenetic regulation in axillary bud development",
+    "link": "https://www.nature.com/articles/s41467-026-77029-7",
+    "authors": [
+      "Mai Yang",
+      "Hao Zhu",
+      "Jinping Zhao",
+      "Xiaofeng Shi",
+      "Wenzhi Lan",
+      "Sheng Luan",
+      "Yongbiao Zhang",
+      "Chun Yan"
+    ],
+    "summary": "Nature Communications, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77029-7\">doi:10.1038/s41467-026-77029-7</a>Shoot branching plasticity is largely regulated by BRC1. The authors show that BRC1 acts as a dose-dependent rheostat, modulating NF-Y-mediated chromatin looping and H3K27me3 demethylation at floral organ development genes to fine-tune axillary bud activity.",
+    "source": "Nature Communications",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77001-5",
+    "title": "Crustal weakening before rupture at volcanoes after long repose",
+    "link": "https://www.nature.com/articles/s41467-026-77001-5",
+    "authors": [
+      "Eric L. Newland",
+      "Christopher R. J. Kilburn"
+    ],
+    "summary": "Nature Communications, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77001-5\">doi:10.1038/s41467-026-77001-5</a>In this study, the authors show that accelerating volcano-tectonic earthquakes can occur as crustal stress decreases and fractures weaken the crust, providing a way to recognise when a reawakening volcano may be approaching rupture.",
+    "source": "Nature Communications",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77176-x",
+    "title": "Author Correction: Host macrophages/monocytes promote malaria transmission by modulating mosquito microbiota via SR-A-mediated phagocytosis",
+    "link": "https://www.nature.com/articles/s41467-026-77176-x",
+    "authors": [
+      "Biao He",
+      "Meilin Li",
+      "Shuai Guo",
+      "Jiaqin Fang",
+      "Yongling Fan",
+      "Nie Tan",
+      "Taiping Liu",
+      "Jianyong Li",
+      "Feng Zhu",
+      "Jian Zhang",
+      "Wenyue Xu"
+    ],
+    "summary": "Nature Communications, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77176-x\">doi:10.1038/s41467-026-77176-x</a>Author Correction: Host macrophages/monocytes promote malaria transmission by modulating mosquito microbiota via SR-A-mediated phagocytosis",
+    "source": "Nature Communications",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77030-0",
+    "title": "Geometrically periodic architecture for enhanced mass transport in electrocatalysis",
+    "link": "https://www.nature.com/articles/s41467-026-77030-0",
+    "authors": [
+      "Zenglong Wu",
+      "Haimin Zhang",
+      "Huajie Yin",
+      "Huijun Zhao"
+    ],
+    "summary": "Nature Communications, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77030-0\">doi:10.1038/s41467-026-77030-0</a>Mass-transfer limitations hinder electrochemical energy conversion at industrial current densities. Here, the authors report a geometrically periodic porous electrode that enhances transport across several reactions and enables durable high-current water electrolysis.",
+    "source": "Nature Communications",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76430-6",
+    "title": "Living co-culture fabrication for biologically crosslinked mycelium–cellulose hydrogels and films",
+    "link": "https://www.nature.com/articles/s41467-026-76430-6",
+    "authors": [
+      "Bingyu Xia",
+      "Yanpei Tian",
+      "Qilong Cheng",
+      "Huilong Liu",
+      "Xiaojie Liu",
+      "Zhenyuan Niu",
+      "Xiwei Shan",
+      "Pengfei Deng",
+      "Wenhui Xu",
+      "Shubhra Bansal",
+      "Tian Li"
+    ],
+    "summary": "Nature Communications, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76430-6\">doi:10.1038/s41467-026-76430-6</a>Microbial growth can be used to create biomaterials, but controlling their growth and material properties is a challenge. Here, the authors co-culture mycelium and bacterial cellulose to create biopolymer composite films with high mechanical and optical properties.",
+    "source": "Nature Communications",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77018-w",
+    "title": "Low-gas-flow strategy boosts hierarchical porosity of ZIF-8 single-atom catalysts for efficient adsorption-driven degradation",
+    "link": "https://www.nature.com/articles/s41467-026-77018-w",
+    "authors": [
+      "Guiwei Liang",
+      "Shuyi Yang",
+      "Yaping Xie",
+      "Tingran Liu",
+      "Rongbing Fu",
+      "Bingcai Pan",
+      "Yuping Qiu"
+    ],
+    "summary": "Nature Communications, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77018-w\">doi:10.1038/s41467-026-77018-w</a>Hierarchical porosity enhances single-atom catalyst performance by facilitating mass transport and improving active-site accessibility, yet its fabrication often requires complex templating or post-synthetic etching. Here, the authors report a simple low-gas-flow strategy to engineer hierarchically porous ZIF-8 single-atom catalysts for efficient adsorption-driven degradation.",
+    "source": "Nature Communications",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03946-6",
+    "title": "Perfluoroalkyl substance release in permafrost surface waters is projected to increase under global warming",
+    "link": "https://www.nature.com/articles/s43247-026-03946-6",
+    "authors": [
+      "Huimin Yu",
+      "Xiaoping Wang",
+      "Cong Wang",
+      "Dianchao Sun",
+      "Yunqiao Zhou",
+      "Huike Dong",
+      "Ping Gong"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03946-6\">doi:10.1038/s43247-026-03946-6</a>Intensified permafrost degradation and reduced vegetation cover are projected to increase the likelihood of perfluoroalkyl acid (PFAA) exceedance in surface waters across permafrost regions, according to a machine-learning study that mapped the global distribution of PFAAs and their congeners.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03968-0",
+    "title": "Long-term stability of the North Water Polynya and emerging productivity hotspots driven by sea-ice arch dynamics in Nares Strait",
+    "link": "https://www.nature.com/articles/s43247-026-03968-0",
+    "authors": [
+      "Foucaut Tachon",
+      "Karen Nieto",
+      "Philippe Massicotte",
+      "Philippe Archambault",
+      "Marie Latil",
+      "Simon Bélanger",
+      "Marcel Babin",
+      "Karl Attard",
+      "Mathieu Ardyna"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03968-0\">doi:10.1038/s43247-026-03968-0</a>Sea-ice arches act as ecosystem structuring features, influencing phytoplankton bloom dynamics at the southern boundary of the Last Ice Area, according to analyses of two decades of satellite sea-ice observations.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "10.1029/2025GL119760",
+    "title": "Riverine Export of Millennial and Decadal Carbon From the Amazon Basin",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119760?af=R",
+    "authors": [
+      "Valier Galy, \nBrenna Boehman, \nTimothy Eglinton, \nNegar Haghipour, \nTaian Lu, \nJose Mauro S. Moura, \nSarah Rosengard, \nRobert G. M. Spencer, \nBrad E. Rosenheim"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-23"
+  },
+  {
+    "id": "10.1029/2026GL124108",
+    "title": "Competing Effects of Elastic Heterogeneity and Viscous Flow on Interseismic Coupling at Cascadia",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124108?af=R",
+    "authors": [
+      "E. M. Sherrill, \nK. M. Johnson, \nF. F. Pollitz"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-23"
+  },
+  {
+    "id": "10.1029/2026GL123382",
+    "title": "Seasonal Reversal of Polarity Dominance in High‐Current Cloud‐to‐Ground Return Strokes Over East Asian Midlatitudes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123382?af=R",
+    "authors": [
+      "Nengxing Guo, \nLi Cai, \nYu Feng, \nWenzhao Lu, \nYongxing Zeng, \nYuheng Niu, \nChun Zhao, \nShanqiang Gu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-23"
+  },
+  {
+    "id": "10.1029/2025GL121477",
+    "title": "A Subtle Atmospheric Shift Is Redefining Winter Hydrology on the Tibetan Plateau",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121477?af=R",
+    "authors": [
+      "Hao Chen, \nXianhong Meng, \nS.‐Y. Simon Wang, \nYaling Chen, \nLin Zhao, \nLele Shu, \nMingshan Deng, \nZhaoguo Li, \nChenghai Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-23"
+  },
+  {
+    "id": "10.1029/2026GL123919",
+    "title": "How Modeling Assumptions Shape Predictions of Convective Mixing of Carbon Dioxide",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123919?af=R",
+    "authors": [
+      "Marco De Paoli, \nSergio Pirozzoli"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-23"
+  },
+  {
+    "id": "10.1029/2026GL123839",
+    "title": "Stratospheric Temperature Adjustment Robustly Damps the State Dependence of CO2 Radiative Forcing",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123839?af=R",
+    "authors": [
+      "Ruogu He, \nYi Huang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-23"
+  },
+  {
+    "id": "10.1029/2026GC013011",
+    "title": "Tectonic Evolution and Crustal Growth of the East Kunlun Orogen, NW China: Insights From the Late Permian–Triassic Granitoids",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013011?af=R",
+    "authors": [
+      "Xiaodong Wang, \nChao Wang, \nLiyun Zhang, \nJinxiang Li, \nYahui Yue, \nLin Ding"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 8, August 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "10.1029/2025JB033195",
+    "title": "Global Distribution of PKP Precursors Derived From Three Decades of Seismic Data With Deep Learning",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033195?af=R",
+    "authors": [
+      "Yurui Guan, \nJuan Li, \nZhuowei Xiao, \nWei Wang, \nTao Xu"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-23"
+  },
+  {
     "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004760",
     "title": "Viscosity of <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si13.svg\" class=\"math\"><mrow><mrow><mi mathvariant=\"normal\">N</mi></mrow><mi>a</mi><mi>A</mi><mi>l</mi><mi>S</mi><msub><mi>i</mi><mn>3</mn></msub><msub><mi>O</mi><mn>8</mn></msub><mo linebreak=\"goodbreak\">−</mo><msub><mi>H</mi><mn>2</mn></msub><mi>O</mi></mrow></math> fluids and implications for arc magmatism",
     "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004760?dgcid=rss_sd_all",
