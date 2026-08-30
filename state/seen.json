@@ -1,5 +1,445 @@
 [
   {
+    "id": "https://www.nature.com/articles/s43247-026-03951-9",
+    "title": "Coulomb-like creeping segment acts as a stress sensor in Northern Sumatra",
+    "link": "https://www.nature.com/articles/s43247-026-03951-9",
+    "authors": [
+      "Rino Salman",
+      "Sharadha Sathiakumar",
+      "Rishav Mallick",
+      "Lujia Feng",
+      "Qiu Qiang",
+      "Susilo Susilo",
+      "Sidik Tri Wibowo",
+      "Emma Hill",
+      "Sang-Ho Yun"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 29 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03951-9\">doi:10.1038/s43247-026-03951-9</a>The Aceh segment of the Sumatra Fault acts as a natural stress gauge by responding predictably to regional stress changes, while simultaneously accommodating both interseismic creep and earthquakes, according to satellite radar interferometry and numerical modelling",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-29"
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03987-x",
+    "title": "Nitrogen deposition modulates reactive carbon exchange between the biosphere and atmosphere",
+    "link": "https://www.nature.com/articles/s43247-026-03987-x",
+    "authors": [
+      "Yanli Zhang",
+      "Yuting Lu",
+      "Alex Guenther",
+      "Haofan Ran",
+      "Qiang Zhang",
+      "Ping’an Peng",
+      "Xinming Wang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 29 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03987-x\">doi:10.1038/s43247-026-03987-x</a>Nitrogen addition significantly increases emissions of isoprene, monoterpenes, and sesquiterpenes, modulating biosphere-atmosphere reactive carbon exchange, based on a meta-analysis with a dataset of 885 observations spanning nine functional plant types.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-29"
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03947-5",
+    "title": "Author Correction: Tree plantation expansion undermines natural forest protection by increasing fragmentation in China",
+    "link": "https://www.nature.com/articles/s43247-026-03947-5",
+    "authors": [
+      "Wenqing Li",
+      "Li Huang",
+      "Hans J. De Boeck",
+      "Zhiyao Tang",
+      "Bin Wang",
+      "Jin Li",
+      "Chenling Zheng",
+      "Yuan Huang",
+      "Zhiming Zhang",
+      "Jiahui Chen"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 29 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03947-5\">doi:10.1038/s43247-026-03947-5</a>Author Correction: Tree plantation expansion undermines natural forest protection by increasing fragmentation in China",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-29"
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04004-x",
+    "title": "Bridging global offshore waves and nearshore coastal conditions with deep learning",
+    "link": "https://www.nature.com/articles/s43247-026-04004-x",
+    "authors": [
+      "Xi Lin",
+      "Tianping Xu",
+      "Wenfang Lu",
+      "Guangyu Yang",
+      "Zhan Hu"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 29 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-04004-x\">doi:10.1038/s43247-026-04004-x</a>Nearshore waves were reproduced with high accuracy across coastal regions, matching buoy observations with coefficients of determination above 0.90 in benchmark tests (United Kingdom coast) and 0.84 in the additional global evaluation, according to a deep learning model combining offshore wave inputs with observation based residual correction.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-29"
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03995-x",
+    "title": "Weak, shallow, dry convection over Angola increases offshore stratocumulus cloud droplet number concentrations",
+    "link": "https://www.nature.com/articles/s43247-026-03995-x",
+    "authors": [
+      "Tyler Tatro",
+      "Paquita Zuidema"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 29 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03995-x\">doi:10.1038/s43247-026-03995-x</a>Co-occurrence of agricultural fires and a weak Angola heat low leads to marine-ward aerosol transport, increasing droplet number but decreasing liquid water path of southeast Atlantic stratocumulus. These interactions are elucidated with data of reanalysis, polar-orbiting satellites, and in-situ flights",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-29"
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04001-0",
+    "title": "Wildfire drives persistent and disproportionate losses of particulate relative to mineral-associated soil organic carbon",
+    "link": "https://www.nature.com/articles/s43247-026-04001-0",
+    "authors": [
+      "Tongxin Hu",
+      "Chun Wang",
+      "Zhenghu Zhou",
+      "Long Sun"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 29 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-04001-0\">doi:10.1038/s43247-026-04001-0</a>Labile particulate organic carbon is more vulnerable to wildfire loss than mineral-associated organic carbon, with soil carbon losses intensifying over the first two decades after fire and totalling about 886 Tg globally during 1997–2023, based on a global meta-analysis of 210 studies.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-29"
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03996-w",
+    "title": "Socioeconomic and climate uncertainty shape solar electricity costs and storage needs across West Africa",
+    "link": "https://www.nature.com/articles/s43247-026-03996-w",
+    "authors": [
+      "Xiaojing Lin",
+      "Xin Sun",
+      "Sarah Feron",
+      "Raul R. Corder",
+      "Bo Bai",
+      "Wided Medjroubi",
+      "Yadong Yu",
+      "Qianzhi Zhang",
+      "Shi Chen",
+      "Shuangqi Li",
+      "Ming Xu",
+      "Klaus Hubacek"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 29 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03996-w\">doi:10.1038/s43247-026-03996-w</a>Solar costs vary widely across West Africa, with climate uncertainty shaping regional viability and optimized storage improving reliability; according to techno-economic modeling and optimization across 184 districts and 13 climate scenarios.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-29"
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03992-0",
+    "title": "A dual-mineral protection mechanism for organic matter preservation and its implications for Mars habitability and biosignature detection",
+    "link": "https://www.nature.com/articles/s43247-026-03992-0",
+    "authors": [
+      "Tongtong Huang",
+      "Jianxun Shen",
+      "Li Liu",
+      "Jialong Hao",
+      "Yan Chen",
+      "Jiaxin Xi",
+      "Wei Lin"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 29 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03992-0\">doi:10.1038/s43247-026-03992-0</a>A two-step interaction between clay minerals and evaporite salts may promote organic matter preservation, with possible relevance to Mars, according to microanalytical analysis of the Middle Pleistocene gypsum and halite minerals from China’s western Qaidam Basin.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-29"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004796",
+    "title": "West Antarctic subglacial geology distinguished by Pb isotopes and Rb–Sr ages in ice-rafted feldspars",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004796?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 November 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 693Author(s): Thomas Arney, Claus-Dieter Hillenbrand, Thomas M. Belgrano, J. Andy Milton, Christine S. Siddoway, Gavin L. Foster, Paul A. Wilson, Julia S. Wellner, Steve M. Bohaty",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004838",
+    "title": "Slab fluid-driven oxidation of Archean sub-arc mantle: A potential trigger for the great oxidation event",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004838?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 November 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 693Author(s): Kai Wang, Jiashun Hu, Richard M. Palin, Keda Cai, Xiangsong Wang",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "10.1029/2026GL124645",
+    "title": "Impacts of Mid‐Latitude Ionospheric Dynamics on RF Applications During the November 2025 Superstorm Event",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124645?af=R",
+    "authors": [
+      "E. Yizengaw, \nW. Younas, \nY. Nishimura, \nC. Gabrielse, \nT. Beach, \nA. J. Coster, \nR. Pradipta, \nK. M. Groves"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-29"
+  },
+  {
+    "id": "10.1029/2026GL123789",
+    "title": "Detectability of Forced ENSO Changes Under Global Warming: Insights From the Recharge Oscillator",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123789?af=R",
+    "authors": [
+      "Sooman Han, \nJérôme Vialard, \nAlexey V. Fedorov, \nSoong‐Ki Kim"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-29"
+  },
+  {
+    "id": "10.1029/2026GL124193",
+    "title": "Escalating Uncertainty Under Increasing Risk in Compound Heat and Precipitation Extremes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124193?af=R",
+    "authors": [
+      "Zhiling Zhou, \nLiping Zhang, \nJijun Xu, \nJun Xia"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-29"
+  },
+  {
+    "id": "10.1029/2026GL124182",
+    "title": "Fast Breakdowns Observed in the Initial Leaders of Two Energetic Compact Strokes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124182?af=R",
+    "authors": [
+      "Qingliu Yang, \nDaohong Wang, \nTing Wu, \nDavid M. Smith, \nYuki Hamajima, \nJinliang He"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-29"
+  },
+  {
+    "id": "10.1029/2026GL123322",
+    "title": "A Stochastic Approach for Recovery Times of Coastal Dune Vegetation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123322?af=R",
+    "authors": [
+      "D. Demichele, \nC. Camporeale"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "10.1029/2026GL124091",
+    "title": "Dynamic Responses of Groundwater Flow and Salt Transport to Storm Surge Inundation in Unconfined Coastal Aquifers",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124091?af=R",
+    "authors": [
+      "Canhao Cai, \nChengji Shen, \nShichang Li, \nChunhui Lu, \nLing Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "10.1029/2026GL123035",
+    "title": "Decadal Reversal of Eurasian Winter Temperature Trend Linked to North Atlantic Climate Variability",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123035?af=R",
+    "authors": [
+      "Ye‐Jun Jun, \nSeok‐Woo Son, \nKyong‐Hwan Seo, \nSang‐Yoon Jun, \nDaehyun Kim, \nJin‐Yong Kim"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "10.1029/2026GL124082",
+    "title": "Trends in Heat Stress During Heat Waves Across Europe (1979–2023)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124082?af=R",
+    "authors": [
+      "Qi Zhang, \nJoakim Kjellsson, \nEmily Black, \nJulian Krüger"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "10.1029/2026GL122611",
+    "title": "Dominant Biases in Atmospheric Radiative Heating Rates in Global Climate Models",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122611?af=R",
+    "authors": [
+      "Han Huang, \nYi Huang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "10.1029/2025GL116210",
+    "title": "Gas Measurements Reveal Fractional Degassing and Water Interaction During a Flank Eruption of Pacaya Volcano (Guatemala)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116210?af=R",
+    "authors": [
+      "Robin Campion, \nAli Zare, \nSébastien Valade, \nDenis Legrand, \nGustavo Chigna, \nYves Moussallam"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "10.1029/2026GL124052",
+    "title": "Observation of Yanai Wave Excitation by Tropical Instability Waves in the Equatorial Pacific",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124052?af=R",
+    "authors": [
+      "Arachaporn Anutaliya, \nCaitlin B. Whalen, \nGunnar Voet, \nAnna‐Lena Deppenmeier, \nAmy F. Waterhouse, \nCaique Dias Luko, \nArnaud Le Boyer"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "10.1029/2026GL124384",
+    "title": "Emergent Regimes of River Meandering and Permafrost Extent in Arctic Floodplains",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124384?af=R",
+    "authors": [
+      "Michael P. Lamb, \nEmily C. Geyman, \nMadison D. Douglas, \nAjay B. Limaye"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "10.1029/2026GL124965",
+    "title": "Global Improvement of Tropical Cyclone Representation Enhances Hindcasts of Extreme Sea Levels Over 68 Years",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124965?af=R",
+    "authors": [
+      "Pengcheng Wang, \nNatacha B. Bernier, \nSean Xie"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "10.1029/2026GL125058",
+    "title": "3D Subduction Interface Model for the Hikurangi Margin, New Zealand: Implications for Slow Slip Events",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125058?af=R",
+    "authors": [
+      "Haoran Ma, \nMaomao Wang, \nAndreas Plesch, \nFuyuan Wang, \nRenqi Lu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "10.1029/2026GL122340",
+    "title": "Re‐Evaluating Inherited SIF Anomaly Detection Methods for the 2024 Amazon Drought: A 3D Convolutional Autoencoder Approach",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122340?af=R",
+    "authors": [
+      "Carmen Oliver Huidobro, \nGerbrand Koren"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "10.1029/2026GL123970",
+    "title": "Satellite‐Based Global Assessment of Solar Resource Stability",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123970?af=R",
+    "authors": [
+      "Ning Lu, \nJun Qin"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "10.1029/2026GL124075",
+    "title": "Event‐Level Attribution of Wildfire Ignition Cause: A Machine‐Learning Approach",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124075?af=R",
+    "authors": [
+      "Kairui Qiu, \nYan Yu, \nHongxuan Su, \nYunxiao Tang, \nShuoqing Wang, \nXianglei Meng, \nQiyu Song, \nWei Guo"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "10.1029/2026GL124012",
+    "title": "Assessing the Impact of Sea Surface Temperature Biases in CMIP6 Coupled Models on the North Pacific Westerly Jet",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124012?af=R",
+    "authors": [
+      "Yusuke Ushijima, \nRyo Mizuta, \nShion Sekizawa, \nHiroyuki Tsujino"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "10.1029/grl.73188",
+    "title": "Issue Information",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/grl.73188?af=R",
+    "authors": [
+      null
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "10.1029/2026GL122806",
+    "title": "Thermodynamic Control of Global Seasonal Snow Decline",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122806?af=R",
+    "authors": [
+      "Yang Song, \nDawei Han, \nGuojun Gu, \nJie Song, \nAli Behrangi"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "10.1029/2026GC013337",
+    "title": "Pattern Formation in Rocks",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013337?af=R",
+    "authors": [
+      "Jibamitra Ganguly"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 9, September 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "10.1029/2026GC013224",
+    "title": "Comment on “Parameterizations of Clinopyroxene—Melt Trace Element Partition Coefficients” by Bédard, J. H. (2014)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013224?af=R",
+    "authors": [
+      "Jean H. Bédard"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 9, September 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "10.1029/2026JB034429",
+    "title": "Compositional Controls on the Contribution of (Fe,Al)OOH Solid Solution to Core‐Mantle Boundary Heterogeneities",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034429?af=R",
+    "authors": [
+      "Sparsh Sharma, \nGaurav Shukla"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-29"
+  },
+  {
+    "id": "10.1029/2026JB034130",
+    "title": "Continuous Release of Saline Fluids From a Permeable Subducting Slab",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034130?af=R",
+    "authors": [
+      "Yongsheng Huang, \nYinwei Li, \nKaiwei Tao, \nGuoji Wu, \nMasanari Arao, \nMichihiko Nakamura, \nDuojun Wang, \nYuan Li"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "10.1029/2026JB034512",
+    "title": "Porous and Permeable Crystalline Basement: Evidence for Large‐Scale Hydraulic Connectivity at Kivetty, Finland",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034512?af=R",
+    "authors": [
+      "Daniel Carbajal‐Martínez, \nMichael J. Heap, \nEster M. Jolis, \nToni Luoto, \nThierry Reuschlé, \nSatu Vuoriainen, \nJukka Kuva, \nEvgenii Kortunov, \nAlan Bischoff"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "10.1029/2025JB033428",
+    "title": "Imaging the Alpine Collision With Seismic Radial Anisotropy",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033428?af=R",
+    "authors": [
+      "Henrique Berger Roisenberg, \nFelix Eckel, \nAmr El‐Sharkawy, \nClaudio Rosenberg, \nLapo Boschi, \nThomas Meier, \nFabio Cammarano"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-28"
+  },
+  {
     "id": "https://www.science.org/doi/abs/10.1126/sciadv.adx7511?af=R",
     "title": "Maladaptive immune-fibrotic axis drives impaired long bone regeneration under mechanical instability",
     "link": "https://www.science.org/doi/abs/10.1126/sciadv.adx7511?af=R",
