@@ -1,5 +1,81 @@
 [
   {
+    "id": "https://www.nature.com/articles/s43247-026-04138-y",
+    "title": "Physics-informed deep learning links geodetic data and fault friction",
+    "link": "https://www.nature.com/articles/s43247-026-04138-y",
+    "authors": [
+      "Rikuto Fukushima",
+      "Masayuki Kano",
+      "Kazuro Hirahara",
+      "Makiko Ohtani"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04138-y\">doi:10.1038/s43247-026-04138-y</a>Spatially variable frictional properties along a fault can be estimated using a physics-informed neural network approach that enables physics-consistent slip modelling, as tested on the 2010 Bungo slow slip event in southwest Japan.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-10-12"
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04147-x",
+    "title": "Baltic Sea sediment bacterial communities show asymmetric and incomplete recovery after reciprocal temperature change translocation",
+    "link": "https://www.nature.com/articles/s43247-026-04147-x",
+    "authors": [
+      "Songjun Li",
+      "Romana Salis",
+      "Jessica Alice Wallbank",
+      "Ida Krogsgaard Svendsen",
+      "Cheng Chang",
+      "Laura Seidel",
+      "Johanna Sunde",
+      "Iryna Rula",
+      "Emelie Nilsson",
+      "Mahboubeh Rahmati Abkenar",
+      "Samuel Hylander",
+      "Marcelo Ketzer",
+      "Anders Forsman",
+      "Mark Dopson"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04147-x\">doi:10.1038/s43247-026-04147-x</a>Ocean warming will alter bacterial communities of Baltic Sea coastal sediments and associated biogeochemical cycles, according to translocation experiments of Baltic Sea sediment.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-10-12"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003351",
+    "title": "The Neogene evolution of the Amazon Basin: reconciling continental and marine provenance records",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003351?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 11 October 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Gabriel R. Moizinho, Germain Bayon, Martin Roddaz, Anne Trinquier, Marie-Laure Rouget, Marina Rabineau, Daniel Aslanian, Elton L. Dantas, Roberto V. Santos",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-10-13"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003260",
+    "title": "Historical biogeography of Middle-East mangroves: paleobotanical evidence",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003260?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 11 October 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Valentí Rull",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-10-13"
+  },
+  {
+    "id": "10.1029/2026JB034098",
+    "title": "The Role of Slab Folding in Modulating the Landscape Evolution of Ribbon Collision",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034098?af=R",
+    "authors": [
+      "Andrés Felipe Rodríguez Corcho, \nClaire Mallard, \nSara Polanco, \nCamilo Montes, \nLouis Moresi"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-10-11"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006435",
+    "title": "Source evolution controls the molybdenum isotope composition of Archean continental crust",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006435?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 11 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Eric D. Vandenburg, Oliver Nebel, Laura M. Spencer, Marc-Alban Millet, R. Hugh Smithies, Peter A. Cawood, Alexandra Churchus, Wenli Liang, Emilie Bruand, Jean-François Moyen, Alex McCoy-West, Priyardarshi Chowdhury",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-13"
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-78617-3",
     "title": "Plant invasions are associated with lower community stability at multiple spatial scales",
     "link": "https://www.nature.com/articles/s41467-026-78617-3",
